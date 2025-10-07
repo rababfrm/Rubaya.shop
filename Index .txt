@@ -2,13 +2,13 @@
 <html lang="ar">
 <head>
   <meta charset="UTF-8">
-  <title>Roubaya Collection</title>
+  <title>Rubaya Collection</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Roubaya Collection</h1>
-    <p>أناقة عصرية بلمسة جزائرية ✨</p>
+    <h1>Rubaya Collection</h1>
+    <p>أناقة عصرية و بسيطة للمحجبات   ✨</p>
   </header>
 
   <section class="products">
