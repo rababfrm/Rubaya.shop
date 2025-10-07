@@ -1,0 +1,3 @@
+<button onclick="window.open('https://wa.me/1234567890', '_blank')">
+  تواصل معي على الواتساب
+</button>
