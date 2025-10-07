@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>Roubaya Collection</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Roubaya Collection</h1>
+    <p>أناقة عصرية بلمسة جزائرية ✨</p>
+  </header>
+
+  <section class="products">
+    <div class="product">
+      <img src="abaya1.jpg" alt="عباية فاخرة">
+      <h2>عباية فاخرة</h2>
+      <p>السعر: 8500 دج</p>
+    </div>
+
+    <div class="product">
+      <img src="abaya2.jpg" alt="عباية بنفسجية">
+      <h2>عباية بنفسجية</h2>
+      <p>السعر: 9200 دج</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>تواصلي معنا عبر واتساب: 0555 123 456</p>
+  </footer>
+</body>
+</html>
